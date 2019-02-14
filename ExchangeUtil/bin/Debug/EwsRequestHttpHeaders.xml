@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Trace Tag="EwsRequestHttpHeaders" Tid="1" Time="2019-02-11 12:17:15Z">
+POST /EWS/Exchange.asmx HTTP/1.1
+Content-Type: text/xml; charset=utf-8
+Accept: text/xml
+User-Agent: ExchangeServicesClient/15.00.0913.015
+Accept-Encoding: gzip,deflate
+X-AnchorMailbox: test3@becaut.onmicrosoft.com
+
+
+</Trace>

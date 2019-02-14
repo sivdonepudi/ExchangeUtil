@@ -1,0 +1,17 @@
+C:\Projects\GitHub-Repo\ExchangeUtil\ExchangeUtil\ExchangeUtil\obj\Debug\App.g.cs
+C:\Projects\GitHub-Repo\ExchangeUtil\ExchangeUtil\ExchangeUtil\obj\Debug\ExchangeUtil_MarkupCompile.cache
+C:\Projects\GitHub-Repo\ExchangeUtil\ExchangeUtil\ExchangeUtil\bin\Debug\ExchangeUtil.exe.config
+C:\Projects\GitHub-Repo\ExchangeUtil\ExchangeUtil\ExchangeUtil\bin\Debug\ExchangeUtil.exe
+C:\Projects\GitHub-Repo\ExchangeUtil\ExchangeUtil\ExchangeUtil\bin\Debug\ExchangeUtil.pdb
+C:\Projects\GitHub-Repo\ExchangeUtil\ExchangeUtil\ExchangeUtil\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Projects\GitHub-Repo\ExchangeUtil\ExchangeUtil\ExchangeUtil\obj\Debug\MainWindow.g.cs
+C:\Projects\GitHub-Repo\ExchangeUtil\ExchangeUtil\ExchangeUtil\obj\Debug\ExchangeUtil_MarkupCompile.lref
+C:\Projects\GitHub-Repo\ExchangeUtil\ExchangeUtil\ExchangeUtil\obj\Debug\MainWindow.baml
+C:\Projects\GitHub-Repo\ExchangeUtil\ExchangeUtil\ExchangeUtil\obj\Debug\ExchangeUtil.g.resources
+C:\Projects\GitHub-Repo\ExchangeUtil\ExchangeUtil\ExchangeUtil\obj\Debug\ExchangeUtil.Properties.Resources.resources
+C:\Projects\GitHub-Repo\ExchangeUtil\ExchangeUtil\ExchangeUtil\obj\Debug\ExchangeUtil.csproj.GenerateResource.cache
+C:\Projects\GitHub-Repo\ExchangeUtil\ExchangeUtil\ExchangeUtil\obj\Debug\ExchangeUtil.csproj.CoreCompileInputs.cache
+C:\Projects\GitHub-Repo\ExchangeUtil\ExchangeUtil\ExchangeUtil\obj\Debug\ExchangeUtil.csproj.CopyComplete
+C:\Projects\GitHub-Repo\ExchangeUtil\ExchangeUtil\ExchangeUtil\obj\Debug\ExchangeUtil.exe
+C:\Projects\GitHub-Repo\ExchangeUtil\ExchangeUtil\ExchangeUtil\obj\Debug\ExchangeUtil.pdb
+C:\Projects\GitHub-Repo\ExchangeUtil\ExchangeUtil\ExchangeUtil\obj\Debug\ExchangeUtil.csprojAssemblyReference.cache

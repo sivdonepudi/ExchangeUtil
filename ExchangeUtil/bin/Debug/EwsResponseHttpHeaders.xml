@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Trace Tag="EwsResponseHttpHeaders" Tid="1" Time="2019-02-11 12:17:20Z">
+HTTP/1.1 200 OK
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+Vary: Accept-Encoding
+request-id: a7bec253-bbd2-4ef1-a2d0-926826198170
+X-CalculatedFETarget: DB6PR0501CU001.internal.outlook.com
+X-BackEndHttpStatus: 200,200
+X-FEProxyInfo: DB6PR0501CA0005.EURPRD05.PROD.OUTLOOK.COM
+X-CalculatedBETarget: DB7PR08MB3356.EURPRD08.PROD.OUTLOOK.COM
+X-RUM-Validated: 1
+x-EwsHandler: GetItem
+X-BeSku: WCS5
+X-DiagInfo: DB7PR08MB3356
+X-BEServer: DB7PR08MB3356
+X-FEServer: DB6PR0501CA0005,LNXP265CA0095
+Cache-Control: private
+Content-Type: text/xml; charset=utf-8
+Date: Mon, 11 Feb 2019 12:17:19 GMT
+Set-Cookie: exchangecookie=56fea76848df415ebd93999fb9c9a6db; path=/
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+
+
+</Trace>
